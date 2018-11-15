@@ -1,0 +1,15 @@
+img{
+	margin-top:20px;
+}
+
+button{ float: right; }
+
+.container{margin-bottom:40px;}
+
+form{ display: inline; }
+
+#eaten{color:rgb(125, 154, 250);}
+
+body{ background-color: #E6E6E6 }
+
+h1 { font-family: 'Bowlby One', cursive; }
